@@ -1,0 +1,27 @@
+
+
+Swagger
+
+http://svdflineap05:10640/flashlease/swagger/index.html#/
+
+
+http://svdflineap05:10640/flashlease/api/auth/login
+{
+	"domain":"FAEFRT",
+	"username":"plesage",
+	"password":123
+}
+
+
+http://svdflineap05:10640/flashlease/api/swagger.json
+
+
+bearer token
+
+D:\adeq380\Flashlease\workspace
+
+Swagger
+http://svdflineap05:10640/flashlease/swagger/index.html#/default/getCommentaires
+
+URL Intégration
+http://www-flashlease-int.franfi.fr:8398/
