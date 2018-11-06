@@ -24,4 +24,10 @@ Swagger
 http://svdflineap05:10640/flashlease/swagger/index.html#/default/getCommentaires
 
 URL Intégration
-http://www-flashlease-int.franfi.fr:8398/
+http://www-flashlease-int.franfi.fr:8398/login
+
+JIRA
+http://www-jira.franfi.fr:8207/jiraent/secure/Dashboard.jspa
+
+
+          return interval(1000).pipe(map(count => count === 3 ? throwError('Giving up') : of(count))) ;
